@@ -37,7 +37,7 @@ export const CardHeader = styled.View`
 
 export const CardContent = styled.View`
   flex: 1;
-  padding 0 30px;
+  padding: 0 30px;
   justify-content: center;
 `;
 

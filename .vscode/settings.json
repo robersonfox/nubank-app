@@ -67,5 +67,5 @@
   "explorer.confirmDelete": false,
 
   "typescript.tsserver.log": "verbose",
-  "java.configuration.updateBuildConfiguration": "interactive"
+  "java.configuration.updateBuildConfiguration": "automatic"
 }
